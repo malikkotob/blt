@@ -24,6 +24,7 @@ rm -f blt.sh
 rm -f project.yml
 rm -f project.local.yml
 rm -f example.project.local.yml
+rm -f drush.wrapper
 rm -f readme/acsf-setup.md
 rm -f readme/architecture.md
 rm -f readme/best-practices.md
